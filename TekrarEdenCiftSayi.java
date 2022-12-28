@@ -1,5 +1,3 @@
-package Diziler;
-
 public class TekrarEdenCiftSayi {
 
     static boolean even(int[] arr, int value) {
